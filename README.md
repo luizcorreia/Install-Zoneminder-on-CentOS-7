@@ -1,2 +1,3 @@
-# Install-Zoneminder-on-CentOS-7
-Script de instalação do zoneminder no CentOS 7
+#Scripts to Install services on CentOS 7
+How to install Zoneminder
+How to Install SSL Certificate
